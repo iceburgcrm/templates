@@ -1,3 +1,5 @@
+[<img src="https://api.gitsponsors.com/api/badge/img?id=785521025" height="90">](https://api.gitsponsors.com/api/badge/link?p=fcTs3bS33spTGywEyt2pLoO2zWenLLNtDhl1W0YZNrWgwKsaOLFK85TfKgEzj5a3dmeLSRcpRwP79Ew0lLERMjEbOI/VWXW6xeHIDxNMwCr4G/Y0/WZeyGrKECCvQkRMxmPmpIiBD5hwpWhxE7p1jg==)
+
 # IceburgCRM MySQL Database Templates
 
 ## Instructions
